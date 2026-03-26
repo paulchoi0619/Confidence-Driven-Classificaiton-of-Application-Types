@@ -1,0 +1,9 @@
+tensorflow==2.19.0
+tensorboard==2.19.0
+tensorflow-text==2.19.0
+numpy==1.26.4
+pandas==3.0.1
+scikit-learn==1.2.2
+matplotlib==3.8.0
+jupyter==1.0.0
+keras==3.11.2
