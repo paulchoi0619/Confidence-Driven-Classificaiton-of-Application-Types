@@ -16,7 +16,7 @@ This experiment removes background traffic and focuses only on classifying appli
 A 10-class classification experiment in which background traffic is treated as a separate category.
 
 ### `gmm_clustering_experiment`
-Contains scripts and notebooks for clustering embeddings and cosine similarity scores using Gaussian Mixture Models (GMM).
+Contains notebooks for clustering cosine similarity score vector using Gaussian Mixture Models (GMM).
 
 ## Models
 
