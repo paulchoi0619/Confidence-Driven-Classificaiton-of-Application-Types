@@ -7,3 +7,4 @@ scikit-learn==1.2.2
 matplotlib==3.8.0
 jupyter==1.0.0
 keras==3.11.2
+tqdm==4.67.1
